@@ -1,2 +1,2 @@
 # Curso de Python
- Atividade em Pycharm curso em video
+ Atividade em Pycharm do curso em video
